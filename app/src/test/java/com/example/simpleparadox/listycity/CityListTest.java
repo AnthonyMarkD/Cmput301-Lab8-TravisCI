@@ -32,4 +32,8 @@ class CityListTest {
     void sampleTest(){
         fail();
     }
+    @Test
+    void sampleTest2(){
+        fail();
+    }
 }
